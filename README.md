@@ -1,4 +1,29 @@
-### Hi there 👋
+### Hi, I'm Edocsil
+
+*Moderator/Bot Developer for [Pokémon GO Ottawa](https://discord.gg/pokegoottawa)*
+
+## About me...
+
+```js
+const edocsil = {
+  pronouns: [ "he/him", "they/them", ],
+  languages: [ JavaScript, MATLAB, Python, HTML, CSS, ],
+  tools: [ Node, discord.js ],
+}
+```
+
+## Projects
+
+Currently working on:
+- A Discord bot for organizing Pokémon GO raids using discord.js
+
+Other projects:
+- Custom Discord moderation bot for Pokémon GO Ottawa using discord.js
+- Tampermonkey scripts for the Ingress Intel Map and Vanilla Forums
+- Various node.js projects
+
+Currently learning about:
+- Creating https servers for direct communication with and between Discord bots
 
 <!--
 **edocsil47/edocsil47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
