@@ -1,7 +1,5 @@
 ### Hi, I'm Edocsil
 
-*Moderator/Bot Developer for [Pokémon GO Ottawa](https://discord.gg/pokegoottawa)*
-
 ## About me...
 
 ```js
